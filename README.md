@@ -8,4 +8,5 @@ A simple and responsive QR Code Generator web app that lets users convert any te
 - Clean and responsive user interface.
 - Animated appearance of the QR code after generation.
 - Mobile-friendly design using modern CSS.
-S
+
+![Screenshot 2025-05-05 002201](https://github.com/user-attachments/assets/58bc42ab-995e-4ff4-8fdc-de790ab9ef82)
