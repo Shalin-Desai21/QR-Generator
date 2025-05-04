@@ -11,7 +11,6 @@ A simple and responsive QR Code Generator web app that lets users convert any te
 
 
 /project
-│
 |── index.html # Main HTML structure
 |── style.css # Styling for the application
 |── index.js # JavaScript logic for QR generation
