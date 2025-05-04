@@ -10,3 +10,5 @@ A simple and responsive QR Code Generator web app that lets users convert any te
 - Mobile-friendly design using modern CSS.
 
 ![Screenshot 2025-05-05 002201](https://github.com/user-attachments/assets/58bc42ab-995e-4ff4-8fdc-de790ab9ef82)
+
+Here is the example if u scan this code u will be redirected to my linkedin profile
